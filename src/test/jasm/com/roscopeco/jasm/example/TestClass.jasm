@@ -1,0 +1,6 @@
+public class com/roscopeco/jasm/example/TestClass {
+    public static getTestValue()java/lang/String {
+        ldc "Test Value"
+        areturn
+    }
+}

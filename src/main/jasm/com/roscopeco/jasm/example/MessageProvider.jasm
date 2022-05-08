@@ -1,0 +1,12 @@
+public class com/roscopeco/jasm/example/MessageProvider {
+    public getMessage()java/lang/String {
+         ldc "Hello, World"
+         areturn
+    }
+
+    public <init>()V {
+        aload 0
+        invokespecial java/lang/Object.<init>()V
+        return
+    }
+}
