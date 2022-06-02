@@ -6,7 +6,7 @@ There's not much here currently but it will be fleshed out as things develop.
 This project uses [The JASM Gradle plugin](https://plugins.gradle.org/plugin/com.roscopeco.jasm).
 
 ```
-./gradlew build
+./gradlew clean build test run
 ```
 
 Note that JASM requires Java 11 or above - it will not work with lower versions.
