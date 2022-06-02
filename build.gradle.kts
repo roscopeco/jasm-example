@@ -1,6 +1,6 @@
 plugins {
     java
-    id("com.roscopeco.jasm") version "0.3.0"
+    id("com.roscopeco.jasm") version "0.4.0"
     application
 }
 
