@@ -9,7 +9,7 @@ This project uses [The JASM Gradle plugin](https://plugins.gradle.org/plugin/com
 ./gradlew build
 ```
 
-Note that JASM requires Java 17 or above - it will not work with lower versions.
+Note that JASM requires Java 11 or above - it will not work with lower versions.
 
 ### Who?
 
