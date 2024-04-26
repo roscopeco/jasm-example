@@ -1,5 +1,7 @@
 ## Example JASM Gradle project
 
+> **note**: This repository is archived and development / support is discontinued.
+
 This is an example of using the JASM assembler and gradle plugin. 
 There's not much here currently but it will be fleshed out as things develop.
 
